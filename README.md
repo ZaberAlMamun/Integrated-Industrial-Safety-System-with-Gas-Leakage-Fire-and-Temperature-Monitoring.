@@ -1,0 +1,2 @@
+# Integrated-Industrial-Safety-System-with-Gas-Leakage-Fire-and-Temperature-Monitoring.
+Bangladesh is one of the world’s top exporters in the apparel industry. Despite the presence of fire safety systems, factories in Bangladesh frequently experience fires that result in numerous worker deaths. Additionally, most households in Bangladesh use LPG gas as fuel, and carelessness often leaves the gas regulator on, causing major accidents.
